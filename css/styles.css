@@ -7884,7 +7884,7 @@ body {
 6. About page
 -------------------------------------------------------------------*/
 .about-page {
-  padding-top: 220px;
+  padding-top: 5px;
 }
 .about-page .main {
   max-width: 100%;
@@ -8450,7 +8450,7 @@ body {
 }
 @media screen and (max-width: 430px) {
   .about-page {
-    padding-top: 180px;
+    padding-top: 1px;
   }
   .contacts-page .mab-block {
     height: 370px;
