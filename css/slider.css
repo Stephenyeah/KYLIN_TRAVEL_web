@@ -189,7 +189,8 @@
   position: absolute;
   width: 25%;
   bottom: 15%;
-  left: 12%;
+  left: 11%;
+  margin-left: 380px;
   color: #fff;
   transition: opacity 0.5s 0.8s, -webkit-transform 0.5s 0.8s;
   transition: transform 0.5s 0.8s, opacity 0.5s 0.8s;
